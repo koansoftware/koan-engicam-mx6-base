@@ -24,13 +24,15 @@ After this step, you will be with everything need for build an image.
 $: source ./setup-environment build
 ```
 
-##Contributing
-
-Please use GitHub (https://github.com/koansoftware/koan-engicam-mx6-base) to submit issues or pull requests, or add to the documentation on the wiki. Contributions are welcome!
-
-# More details
+## More details
 
 More details are in the repo setup : https://github.com/koansoftware/koan-engicam-mx6-bsp-repo
+
+------
+
+## Contributing
+
+Please use GitHub (https://github.com/koansoftware/koan-engicam-mx6-base) to submit issues or pull requests, or add to the documentation on the wiki. Contributions are welcome!
 
 ------
 
