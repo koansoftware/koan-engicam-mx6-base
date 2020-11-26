@@ -1,4 +1,10 @@
-# Yocto BSP for Engicam iMX6 boards by KOAN Software - Bergamo - Italy
+![koansoftware.com](https://www.koansoftware.com/wp-content/uploads/2019/06/logo_head_3-300x138.jpg)
+
+# Yocto BSP for Engicam iMX6 boards by KOAN
+
+This is part of the unofficial Yocto Project setup system for Engicam iMX6 boards family.
+
+![engicam.com](https://www.engicam.com/grafiche/personalizzate/engicam2/style/images/logo.png)
 
 ## koan-engicam-mx6-base Quick Start Guide
 
@@ -17,3 +23,11 @@ After this step, you will be with everything need for build an image.
 ```
 $: source ./setup-environment build
 ```
+
+Contributing
+-------
+Please use GitHub (https://github.com/koansoftware/koan-engicam-mx6-base) to submit issues or pull requests, or add to the documentation on the wiki. Contributions are welcome!
+
+------
+
+(C)2020 Copyright - KOAN sas - <https://koansoftware.com>
